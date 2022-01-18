@@ -4,4 +4,4 @@ Chapitre 1: [Programme linéaire](https://github.com/Hamrita/RO/blob/main/Chap1/
 
 Chapitre 2: [La méthode du simplexe](https://github.com/Hamrita/RO/blob/main/Chap2/RO2.pdf)
 
-Chapitre 3: [La résolution du modèle générale](https://github.com/Hamrita/RO/blob/main/Chap3/RO3.pdf)
+Chapitre 3: [La résolution du programme générale](https://github.com/Hamrita/RO/blob/main/Chap3/RO3.pdf)
