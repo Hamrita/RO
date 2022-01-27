@@ -6,4 +6,4 @@ Chapitre 2: [La méthode du simplexe](https://github.com/Hamrita/RO/blob/main/Ch
 
 Chapitre 3: [La résolution du programme générale](https://github.com/Hamrita/RO/blob/main/Chap3/RO3.pdf)
 
-Chapitre 4: Dualité et post-optimalité
+Chapitre 4: [Dualité et post-optimalité](https://github.com/Hamrita/RO/blob/main/Chap4/RO4.pdf)
